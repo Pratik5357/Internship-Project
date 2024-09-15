@@ -1,0 +1,33 @@
+# Node.js and npm files
+node_modules/
+npm-debug.log
+
+# Express files
+logs/
+uploads/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Other files
+*.log
+*.tmp
+*.old
+*.orig
+*.rej
+*.swp
+*.bak
+*.bk
+*.backup
+*.cache
+*.local
+*.tmp
+*.temp
